@@ -1,0 +1,37 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: #0A0201;
+}
+.carousel
+{
+    transform: translateY(-150px);
+	height: 850	px;
+    perspective: 700px;
+}
+.carousel .carousel-item
+{
+    width: 600px;
+}
+.carousel .carousel-item img
+{
+    width: 100%;
+}
+.carousel .carousel-item h3
+{
+   margin: -5px 0 0;
+   padding: 0;
+   background: #fff;
+   color; #000;
+   box-sizing: border-box;
+   padding: 10px 5px;
+   font-weight: bold;
+   fornt-size: 2em;
+   text-align: center;
+}
+.
+
+
+
+	
